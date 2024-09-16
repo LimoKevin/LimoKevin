@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Kiprotich 
-- 👀 I’m a full stack web developer and app development 
+- 👀 I’m a full stack web developer and app developer. 
 - 🌱 With a degree in computer science 
 - 📫 How to reach me on whatsapp: +254701599565
 
